@@ -1,0 +1,15 @@
+Your personalized state machine description for Lab 4 (coe 428) follows:
+
+A A B
+B F H
+C E D
+D A G
+E C A
+F D G
+G H C
+H F E
+
+Your starting state is: A 
+
+I have craete a struct (data type) called LinkList and was able to implement a state machine that have sataes from A-H. After the implementation there were no errors.
+
